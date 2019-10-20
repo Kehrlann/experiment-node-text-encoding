@@ -1,0 +1,23 @@
+{
+  "name": "experiment-node-text-encoding",
+  "version": "1.0.0",
+  "description": "Experimenting with nodejs' encoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kehrlann/experiment-node-text-encoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kehrlann/experiment-node-text-encoding/issues"
+  },
+  "homepage": "https://github.com/Kehrlann/experiment-node-text-encoding#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
