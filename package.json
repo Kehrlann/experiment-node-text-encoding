@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Kehrlann/experiment-node-text-encoding#readme",
   "devDependencies": {
     "jasmine": "^3.5.0"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.5.0"
   }
 }
